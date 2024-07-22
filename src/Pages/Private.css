@@ -1,0 +1,46 @@
+.private-container{
+    max-width: 1200px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgb(0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+
+}
+
+.private-header {
+    background-color: #4a90a2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.private-contant {
+    padding: 20px;
+}
+
+.private-contant h2 {
+    padding: 20px;
+    border-bottom: 1px solid #e0e0e0;
+    margin-top: 0;
+}
+
+.private-footer {
+    padding: 20px;
+    text-align: center;
+}
+
+.private-footer button {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transform: background-color 0.3s;
+
+}
+
+.private-footer button:hover {
+    background-color: #c0392b;
+}
